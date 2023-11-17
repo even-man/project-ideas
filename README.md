@@ -5,3 +5,6 @@ Mini Excel
 
 Paralell computed Machine Learning Algorithms
 * Just an implementation of paralell computated machine learning algorithms on some old machine learning assignments. Want to compare run times.
+
+Virtual DOM
+* Based on [this](https://youtu.be/85gJMUEcnkc?si=5fokBuy328hqxqIJ) idea
