@@ -1,4 +1,4 @@
-# project-ideas
+# Project Ideas
 
 Mini Excel
 * Console application that builds a simple excel engine that takes a CSV file that has functions, calculated fields, and outputs an excel file with formated values. Idea from [Tsoding](https://youtu.be/HCAgvKQDJng?si=aGEWWWk2Y-Z7rB7B)
@@ -11,6 +11,7 @@ Virtual DOM
 
 Data Structures / Algorithms
 * Remake some algorithms and data structures and test them on big sets of numbers.
+* External Sort
 
 Socket Programming .NET C#
 * Create a client/server style socket program.
