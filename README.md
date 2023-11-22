@@ -8,3 +8,11 @@ Paralell computed Machine Learning Algorithms
 
 Virtual DOM
 * Based on [this](https://youtu.be/85gJMUEcnkc?si=5fokBuy328hqxqIJ) idea
+
+Data Structures / Algorithms
+* Remake some algorithms and data structures and test them on big sets of numbers.
+
+Socket Programming .NET C#
+* Create a client/server style socket program.
+
+Console Weather Utility
