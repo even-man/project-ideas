@@ -17,3 +17,6 @@ Socket Programming .NET C#
 * Create a client/server style socket program.
 
 Console Weather Utility
+
+Information Retrieval
+* Read about information retrieval techniques and indexing for search engines. Find some pages to index. Use this algorithm [TF IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
